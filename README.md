@@ -78,4 +78,4 @@ A short react-app of an Algerian restaurant. You can browse dishes, add them to 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/algerian-restaurant-app.git
+   git clone https://github.com/kharchiamina05/restaurant_new.git
